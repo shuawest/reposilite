@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+
 chown -R reposilite:reposilite /app
 chown -R reposilite:reposilite /var/log/reposilite
 
